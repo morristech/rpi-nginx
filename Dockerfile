@@ -1,9 +1,9 @@
 FROM balenalib/raspberry-pi-alpine:3.9
 
-LABEL maintainer="vmnet8 <vmnet8@gmail.com>" \
+LABEL maintainer="vmnet8 <vmnet8@ole.org>" \
       description="NGINX on raspberry pi" \
-      image.url="https://hub.docker.com/r/vmnet8/rpi-nginx/" \
-      source="https://github.com/ole-vi/rpi-nginx"
+      image.url="https://hub.docker.com/r/treehouses/rpi-nginx/" \
+      source="https://github.com/treehouses/rpi-nginx"
 
 
 ENV NGINX_VERSION 1.16
