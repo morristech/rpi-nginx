@@ -3,7 +3,7 @@ FROM balenalib/raspberry-pi-alpine:3.9
 LABEL org.opencontainers.image.maintainer="vmnet8 <vmnet8@ole.org>" \
       org.opencontainers.image.title="NGINX" \
       org.opencontainers.image.description="NGINX on raspberry pi" \
-￼      org.opencontainers.image.licenses="AGPL v3.0" \		￼
+￼      org.opencontainers.image.licenses="AGPL v3.0" \
       org.opencontainers.image.description="NGINX on raspberry pi" \
       org.opencontainers.image.image.url="https://hub.docker.com/r/treehouses/rpi-nginx/" \
       org.opencontainers.image.source="https://github.com/treehouses/rpi-nginx"
