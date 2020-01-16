@@ -1,4 +1,4 @@
-FROM balenalib/raspberry-pi-alpine:3.9
+FROM balenalib/raspberry-pi-alpine:3.10
 
 LABEL org.opencontainers.image.maintainer="vmnet8 <vmnet8@ole.org>" \
       org.opencontainers.image.title="NGINX" \
